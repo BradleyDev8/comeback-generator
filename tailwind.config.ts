@@ -8,9 +8,15 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        bricolage: ["var(--font-bricolage)", "sans-serif"],
+        poppins: ["var(--font-poppins)", "serif"],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        pur: "#804B71",
+        neon: "#00f2ff",
       },
     },
   },
