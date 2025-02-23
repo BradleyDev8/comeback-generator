@@ -5,7 +5,7 @@ export default function Header() {
     <section>
       <div className="flex flex-col gap-2">
         <div className="p-3">
-          <div className="relative w-full md:h-[250px] rounded-xl overflow-hidden">
+          <div className="relative w-full h-[200px] md:h-[250px] rounded-xl overflow-hidden">
             <Image
               src="/images/main-image.gif"
               alt="header"
