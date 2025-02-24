@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col justify-center items-center font-semibold">
           <h2>Thanks for visiting!</h2>
           <p>
-            Made by <span className="text-neon">Brad McCout</span>
+            Made by <span className="text-neon">Brad McCourt</span>
           </p>
         </div>
 
